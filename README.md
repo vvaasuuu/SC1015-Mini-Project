@@ -34,6 +34,7 @@ Based on the combined observations made from EDA, classification, and the Random
 We realised that with further improvement and continued optimization and testing, our deep learning model can be a powerful tool in predicting and diagnosing diabetes as wells as other health issues like Diabetic Ketoacidosis and hypertension, ultimately improving patient outcomes and reducing health risks.
 
 ## Presentation Slides
+https://github.com/vvaasuuu/SC1015-Mini-Project/blob/7bb346568aa0e276cfe601b70d77cd5646afeda6/sc1015%20mini-project.pdf
 
 
 ## Contributors
