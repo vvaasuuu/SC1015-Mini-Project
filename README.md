@@ -41,3 +41,6 @@ We realised that with further improvement and continued optimization and testing
 
 ## References
 - https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
+- https://medium.datadriveninvestor.com/optimizing-a-random-forest-44ad5f44ef0c
+- https://www.datacamp.com/tutorial/random-forests-classifier-python
+- https://www.youtube.com/watch?v=mozBidd58VQ
