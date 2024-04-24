@@ -19,21 +19,23 @@ We then leveraged our knowledge to predict: 1) diabetes type, 2) DKA risk (a ser
 - Deep Learning: Tenserflow
 
 ## Conclusion
-- we began by investigating a diabetes dataset to understand the key factors impacting patients.
+- We began by investigating a diabetes dataset to understand the key factors impacting patients.
 - We used various visualizations, including scatter plots and boxplots amongst others, to do EDA and understand the relationships between different variables.
 - Classification techniques helped determine the contribution every factor had towards the outcome.
 - We created new columns to determine the type of diabetes along with identifying patients at risk for Diabetic Ketoacidosis) and hypertension.
 - We used a Random Forest optimization model to determine the most influential factor.
-- Based on the combined observations made from EDA, classification, and the Random Forest optimisation model, we concluded that glucose levels have the strongest association. 
+
+Based on the combined observations made from EDA, classification, and the Random Forest optimisation model, we concluded that glucose levels have the strongest association. 
 
 - We also explored the potential of deep learning in analyzing our dataset. We implemented a deep learning model with two hidden layers to predict the likelihood of diabetes based on the input variables.
 - We trained the model using a subset of the dataset and tested it on the remaining data.
 - Our results showed that the model was able to predict diabetes with an accuracy of 87.7%. This is a significant improvement compared to the classification tree model, which was 74.1%
-- We realised that with further improvement and continued optimization and testing, our deep learning model can be a powerful tool in predicting and diagnosing diabetes as wells as other health issues like Diabetic Ketoacidosis and hypertension, ultimately improving patient outcomes and reducing health risks.
+
+We realised that with further improvement and continued optimization and testing, our deep learning model can be a powerful tool in predicting and diagnosing diabetes as wells as other health issues like Diabetic Ketoacidosis and hypertension, ultimately improving patient outcomes and reducing health risks.
 
 
 ## Contributors
-- *Audrey --> Classficiation*
+- *Audrey --> Classficiation - Decision Tree Model*
 - *Kavya --> Prediction of Diabetes Type, Risk of DKA and Risk of Hypertension* and *Deep Learning*
 - *Vasumathi --> Exploratory Data Analysis* and *Optimisation Model - Random Forest*
 
