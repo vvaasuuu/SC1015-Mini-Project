@@ -40,4 +40,4 @@ We realised that with further improvement and continued optimization and testing
 - *Vasumathi --> Exploratory Data Analysis* and *Optimisation Model - Random Forest*
 
 ## References
-- (https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
+- https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
